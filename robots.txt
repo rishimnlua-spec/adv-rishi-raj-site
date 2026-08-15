@@ -1,3 +1,8 @@
+User-agent: *
+Allow: /
+
+# Provide the new site's sitemap so crawlers know the canonical URLs
+Sitemap: https://advrishirajsingh.co.in/sitemap.xml
 # Robots.txt for Advocate Rishi Raj Singh Website
 User-agent: *
 Allow: /
