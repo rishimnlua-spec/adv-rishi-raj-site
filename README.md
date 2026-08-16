@@ -100,7 +100,7 @@ python3 -m http.server 8000
 ### Changing Contact Information
 Edit the contact details in the footer and contact sections of respective HTML files:
 - Phone: +91 85419 26505
-- Email: advocate.rishiraj@gmail.com
+- Email: rishi.mnlua@gmail.com
 - Office Address: Chamber details and residence address
 
 ### Adding New Blog Posts
@@ -166,7 +166,7 @@ Edit the services grid in `index.html` to add, remove, or modify service offerin
 ## 📧 Contact Information
 
 **Phone**: +91 85419 26505
-**Email**: advocate.rishiraj@gmail.com
+**Email**: rishi.mnlua@gmail.com
 
 **Office Address**:
 - Chamber: Room No. 01, Lawyers Association, High Court of Patna Campus, Patna, Bihar – 800001
