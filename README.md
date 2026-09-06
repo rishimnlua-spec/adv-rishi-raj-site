@@ -10,7 +10,6 @@ This website showcases the professional services of Advocate Rishi Raj Singh, fe
 
 ### Pages
 - **Homepage** (`index.html`) - Hero section, about, services, blogs, and contact information
-- **About Page** (`about.html`) - Detailed biography, achievements, and statistics
 - **Contact Page** (`contact.html`) - Contact form and communication channels
 - **Blog Page** (`blog1.html`) - Legal articles and insights
 
@@ -33,13 +32,10 @@ This website showcases the professional services of Advocate Rishi Raj Singh, fe
 
 ```
 ├── index.html                 # Homepage
-├── about.html                 # About page
 ├── contact.html               # Contact page
 ├── blog1.html                 # Blog post page
 ├── style.css                  # Global styles
 ├── script.js                  # JavaScript functionality
-├── about.css                  # About page specific styles
-├── about.js                   # About page scripts
 ├── contact.css                # Contact page specific styles
 ├── contact.js                 # Contact scripts
 ├── Rishi Raj Singh Image.png  # Profile photo
@@ -123,13 +119,6 @@ Edit the services grid in `index.html` to add, remove, or modify service offerin
 - Blog section
 - Contact information
 - Footer with links
-
-### About Page Features
-- Page hero section
-- Detailed biography
-- Statistics (cases handled, happy clients, success rate)
-- Counter animations
-- Full credentials display
 
 ### Contact Page Features
 - Contact form
